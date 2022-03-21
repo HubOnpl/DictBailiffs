@@ -173,11 +173,11 @@ from email.mime.base import MIMEBase
 from email.mime.image import MIMEImage
 from email.mime.text import MIMEText
 
-emailfrom  = "HubOn.pl@outlook.com"
-emailto    = "pawel.muter@pkobp.pl"
+emailfrom  = ""
+emailto    = ""
 fileToSend = '../Data/dictKomornicy.csv'
 username   = "HubOn.pl@outlook.com"
-password   = "pokrab-duhwa0-byfvUn"
+password   = ""
 
 msg = MIMEMultipart()
 msg["From"] = emailfrom

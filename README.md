@@ -1,2 +1,0 @@
-# DictBailiffs
-Dictionary Bailiffs
